@@ -1,0 +1,6 @@
+C:\Users\Mehmet\source\repos\ConsoleApp\Project.CSharpBasic\bin\Release\Project.CSharpBasic.exe.config
+C:\Users\Mehmet\source\repos\ConsoleApp\Project.CSharpBasic\bin\Release\Project.CSharpBasic.exe
+C:\Users\Mehmet\source\repos\ConsoleApp\Project.CSharpBasic\bin\Release\Project.CSharpBasic.pdb
+C:\Users\Mehmet\source\repos\ConsoleApp\Project.CSharpBasic\obj\Release\Project.CSharpBasic.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\ConsoleApp\Project.CSharpBasic\obj\Release\Project.CSharpBasic.exe
+C:\Users\Mehmet\source\repos\ConsoleApp\Project.CSharpBasic\obj\Release\Project.CSharpBasic.pdb
