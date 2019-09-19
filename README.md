@@ -1,0 +1,21 @@
+# ConsoleApp
+ThrowsExpression_Expression_Bodied_Members
+OutValues
+Tuples_DeconstructionOfTuples
+SwitchCase
+DelegateExample
+LINQ_SelectMany
+LINQ_SelectProjections
+LINQ_SelectWhere
+ExtensionMethod
+InterfaceForSelenium
+Console.WriteLine(GetBrowserName(Browser.Chrome))
+GenericCollectionsWithCustomClass
+GenericCollections
+NonGenericCollections
+ArrayExample
+Looping
+Conditional
+Methods
+TypesVar
+Casting
